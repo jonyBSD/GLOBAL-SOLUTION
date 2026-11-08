@@ -1,0 +1,11 @@
+id;dia;status_anterior;status_novo
+001;3;aberta;em_analise
+001;5;em_analise;concluida
+002;6;aberta;em_analise
+004;8;aberta;em_analise
+005;9;aberta;em_analise
+007;12;aberta;em_analise
+004;14;em_analise;concluida
+009;15;aberta;em_analise
+009;19;em_analise;concluida
+014;24;aberta;em_analise

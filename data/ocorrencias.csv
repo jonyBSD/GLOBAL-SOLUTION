@@ -1,0 +1,17 @@
+id;categoria;descricao;bairro;local;dia_abertura;status
+001;iluminacao;Poste apagado na calçada;Jardim Aurora;Praça Central;2;concluida
+002;iluminacao;Lâmpada piscando perto do ponto de ônibus;Jardim Aurora;Avenida das Flores;4;em_analise
+003;acessibilidade;Rampa de acesso sem inclinação adequada;Vila Esperança;Escola Municipal;5;aberta
+004;limpeza;Acúmulo de entulho em terreno baldio;Vila Esperança;Rua do Campo;6;concluida
+005;conservacao;Banco da praça quebrado;Jardim Aurora;Praça Central;7;em_analise
+006;limpeza;Lixeira transbordando;Centro Novo;Mercado Popular;9;aberta
+007;acessibilidade;Calçada com buraco dificultando cadeirantes;Centro Novo;Rua Principal;10;em_analise
+008;iluminacao;Quadra esportiva sem iluminação;Vila Esperança;Quadra Comunitária;12;aberta
+009;conservacao;Brinquedo danificado no parquinho;Jardim Aurora;Parque Infantil;13;concluida
+010;limpeza;Mato alto no canteiro central;Centro Novo;Avenida Central;15;aberta
+011;acessibilidade;Piso tátil danificado;Centro Novo;Terminal de Ônibus;17;aberta
+012;conservacao;Muro da escola com pichação;Vila Esperança;Escola Municipal;18;aberta
+013;iluminacao;Poste sem luz na travessa;Centro Novo;Travessa 3;20;aberta
+014;limpeza;Descarte irregular de lixo;Jardim Aurora;Rua das Flores;22;em_analise
+015;;Calçada irregular perto da praça;Jardim Aurora;Praça Central;24;aberta
+016;limpeza;Bueiro entupido;Vila Esperança;Rua do Campo;25;pausada
